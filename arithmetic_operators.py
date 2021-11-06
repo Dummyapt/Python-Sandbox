@@ -1,0 +1,6 @@
+print("Addition:        5 +  2 = " + str(5 + 2))
+print("Subtraction:     5 -  2 = " + str(5 - 2))
+print("Multiplication:  5 *  2 = " + str(5 * 2))
+print("Power:           5 ** 2 = " + str(5 ** 2))
+print("Division:        5 /  2 = " + str(5 / 2))
+print("Modulo:          5 %  2 = " + str(5 % 2))
